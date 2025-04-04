@@ -1,0 +1,12 @@
+pytest
+pytest-asyncio
+playwright
+browser-use
+langchain_google_genai
+pydantic
+pytest
+pytest-asyncio
+pytest-html
+langchain-google-genai
+pydantic
+browser_use
